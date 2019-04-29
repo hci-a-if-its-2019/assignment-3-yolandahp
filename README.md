@@ -1,60 +1,65 @@
 # Usability Evaluation and Prototyping (again)
-> Usability Evaluation in this assignment is to evaluate your high-fidelity interactive-prototype with two participants:
-> the participant from the previous Contextual Inquiry (CI) 
-> and an additional novice-participant with different demographics if possible.
-> Respectively, revise your prototype as an attempt to fix any problems found in this Usability Evaluation.
+
+Reddit (reddit.com) is a social news aggregation site that allows registered users to submit post and comments in a variety of categories. Registered users are also able to send messages and share articles with other users. Registered users also can customize which categories / SubReddit's they are subscribed to.
+
 
 ## Operating the Prototype
-> Record a video (screen-recording is preferred) while you operating your prototype.
-> Present the ideal case on how to interact with the prototype from the beginning to the end.
-> Upload the video on any video-sharing website (e.g., YouTube), then attach the video link on this report.
+Link to Prototype Video: https://www.youtube.com/watch?v=dS0sFvMPbSo&feature=youtu.be
 
-[![Prototype Video](http://img.youtube.com/vi/IYG0LkOd58M/0.jpg)](https://youtu.be/IYG0LkOd58M?t=72)
+[![Prototype Video](https://img.youtube.com/vi/dS0sFvMPbSo/0.jpg)](https://www.youtube.com/watch?v=dS0sFvMPbSo&feature=youtu.be)
 
 ---
 
 ## Part A: Usability Evaluation
-> In this part, you should prepare your high-fidelity interactive-prototype from the assignment 2.
-> Invite the participant from your previous CI to test the prototype.
-> You also need to invite one more novice participant.
-> As with the CI, you might need to videotape your sessions.
-> You can benefit from the videotape while writing your `Recording Transcript` later.
 
 ### 1. Brief Description of Participants
-> Describe your participants in bullets or sentences.
-> The description should contain their demographic (age, gender, occupation),
-> their skill level in using the system, and your reasons choosing them.
-> The description should NOT contain any personally identifiable information.
-
 #### a. Description of Participant 1
- - The Quick 
- - Brown Fox 
- - Jumps Over 
- - The Lazy Dog
+- Female
+- 21 years old
+- Student of SeaTrans Department ITS
+- Active internet user
+- Typically share multimedia content a few times for a week
+- Had no experience with Reddit
 
 #### b. Description of Participant 2
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 
 ### 2. Evaluation Script
-> Write the questions you ask and the instructions you use to direct the participants on what to do.
-> If it is the same as previous assignments, please mention this, yet go ahead and INCLUDE it again,
-> so we have everything in one place.
-> Note that the evaluation script must include exactly what you plan to say to the participants.
+Five separate tasks were observed in total including:
+1. Search for the newest post
+2. Rating / voting a post
+3. Add comments
+4. Rating / voting a comment
+5. Re-share post on users timeline
 
 ### 3. Transcript
-> Provide a summary of what the participant did and said, and what you did and said.
-> If at some points you have to help the participants, because they cannot figure out what to do,
-> that scene must be included in the transcript.
-> It is not necessary to write down every word the participant said,
-> just what is interesting and useful.
-> Ensure to write down all the actions on the device, whether correct or wrong.
-> Remember to supplement the transcript with time-codes or line-numbers.
-
 #### a. Transcript with Participant 1
- 1. **You**: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- 1. **Participant**: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- 1. **You**: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- 1. **Participant**: The Quick Brown Fox Jumps Over The Lazy Dog.
+ 1. **Me**: Hai, jadi kemarin kan aku udah wawancara kamu buat nyobain make Reddit, terus kamu juga udah kasih feedback. Sekarang aku minta kamu buat coba prototype design baru Reddit yang aku buat.
+ 1. **Participant**: Hoo oke oke. Ohh kaya gini jadinya
+ 1. **Me**: Iyaa. Nah sekarang aku minta kamu buat ngerjain task-task yang hampir sama kaya sebelumnya. Oh ya ini jangan takut salah atau harus cepat.
+ 1. **Participant**: Ohhhh okee
+ 1. **Me**: Nah ini jadi sekarang coba kamu cari postingan terbaru di Reddit. Yang paling baru.
+ 1. **Participant**: (Setelah sekitar 40 detik melihat-lihat akhirnya menemukan dropdown sort by, kemudian klik tombol "Newest") Eee ini (menunjuk salah satu post paling atas di Newest Post)
+ 1. **Me**: Sipppp. Sekarang coba kamu kasih rating atau voting buat salah satu post. Suka post itu atau ngga.
+ 1. **Participant**: Ohhhh yang ini (klik button Up-Rate pada salah satu post)
+ 1. **Me**: Iyaa. Nah sekarang kalau mau ngasih comment di salah satu post gimana? 
+ 1. **Participant**: (klik button comment, kemudian muncul pop up comment) Eh ini bisa diketik ngga? (menunjuk box comment)
+ 1. **Me**: Harusnya iya, tapi karena ini prototype jadi ngga bisa diketik, tunjukin aja abis gitu kamu ngapain
+ 1. **Participant**: Ohh, nanti aku abis ngetik disini klik yang ini (menunjuk button Comment)
+ 1. **Me**: Sippppp. terus kalau mau ngasih Rate buat salah satu komentar orang lain?
+ 1. **Participant**: Tinggal klik ini (menunjuk button Up-Rate pada salah satu komentar)
+ 1. **Me**: Hooh. Nah sekarang kalau kamu mau share salah satu postingan di timeline mu gimana?
+ 1. **Participant**: (klik button share, kemudian muncul dropdown) ngeshare di timelineku ya? (klik "Post on Timeline")
+ 1. **Me**: Iyaaaaa. Ye udah nih, sekarang mau tanya pendapatmu nih tentang ini gimana?
+ 1. **Participant**: Menurutku ya, aku awalnya ngga tau kalau aku lagi ada dimana, jadi aku ngga tau kalau tombol sort ini (menunjuk dropdown sort by) itu bisa buat ngurutin timelineku. Jadi menurutku kurang ada penanda kalau aku lagi ada di Home ku.
+ 1. **Me**: Ohhhh gitu yaa. Terus-terus apalagi?
+ 1. **Participant**: Oh ya, ini tuh tombol rate nya bisa diganti jadi kaya jempol atau heart gitu ngga? terus warnanya bisa jadi warna hijau buat Up, merah kalau Down gitu? Terus text yang ini (text banyak orang yang ngerate) itu hitam aja kayanya warnanya biar lebih jelas?
+ 1. **Me**: Hoo I see. Okeee sip sip aku simpan buat bahan aku. Ada lagi ngga? Button-button nya udah cukup jelas belum?
+ 1. **Participant**: Udah sihh. Button-buttonnya lebih mending daripada sebelumnya. Rate nya juga lebih jelas dari sebelumnya yang ada di sebelah kiri.
+ 1. **Me**: Okeeee deh. Udah nih, terima kasihhh *Participant* sudah bersedia aku wawancara lagi. Makasih buat masukan-masukannya jugaa.
+ 1. **Participant**: Iyaaa sama-samaa
+
+
 
 #### b. Transcript with Participant 2
  - **00:01** 👨‍🔬 You: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
