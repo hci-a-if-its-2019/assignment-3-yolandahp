@@ -131,7 +131,7 @@ Five separate tasks were observed in total including:
  - **Feedback**: Negative feedback
  - **Incidence**: -
  - **Reason**: The Participant is not familiar with Up-Rate and Down-Rate button for like or dislike a post. They prefer Thumbs or Love button for like some post. 
- - **Resolution**: I Up-Rate or Vote is way better than like or dislike only if people understand the differences. Nobody cares if you like or dislike a post. They care if a post is worth to read. That’s what upvotes and downvotes are supposed to indicate. So I will not change the up-rate and down-rate button. 
+ - **Resolution**: I think that Up-Rate or Vote is way better than like or dislike only if people understand the differences. Nobody cares if you like or dislike a post. They care if a post is worth to read. That’s what upvotes and downvotes are supposed to indicate. So I will not change the up-rate and down-rate button. 
     - Add background color for rate button group
     - Change the color of hit number of rate
 
@@ -159,16 +159,10 @@ Five separate tasks were observed in total including:
 
 ## Part B: Prototyping (again)
 ### Sketch
-> Draw a sketch of your prototype that is refined based according to the aforementioned observations on a paper.
-> Afterwards, scan the sketch or make the photograph of it and attach it on this report's section.
-> Please make sure the any texts on the sketch are readable.
-
-![Sketch of Refined Prototype](https://cdn2.hubspot.net/hub/725165/file-3421843765-png/blog-files/uxpin--300x211.png)
+![Sketch of Refined Prototype](/images/sketch.jpg)
 
 ### Design Rationale
-> Please write a paragraph expressing what you have learned from the usability evaluation, 
-> and how it is reflected in your design.
+I have learnt from the contextual inquiry that not all users understand with our design. So we have to understand users. Every litle detail like highliting, color selection, and typography are important to attract the users. Sometimes users are not familiar with our feature (like up rate and down rate feature). As much as possible we should make a new design that's better without removing the characteristics of the website. By doing usability evaluation, again and again, we can see which problems users have and what they understand straight away. We might also see approaches or possible solution which is better.
 
 ### High-Fidelity Interactive-Prototype
-> Create a high-fidelity interactive-prototype based on the `Sketch` you have drawn.
-> You can use any prototyping tools: InVision, Adobe XD, or even Microsoft PowerPoint.
+High Fidelity Interactive-Prototype: https://invis.io/6SRSS02UX3A
