@@ -2,6 +2,27 @@
 
 Reddit (reddit.com) is a social news aggregation site that allows registered users to submit post and comments in a variety of categories. Registered users are also able to send messages and share articles with other users. Registered users also can customize which categories / SubReddit's they are subscribed to.
 
+- [Usability Evaluation and Prototyping (again)](#usability-evaluation-and-prototyping-again)
+  - [Operating the Prototype](#operating-the-prototype)
+  - [Part A: Usability Evaluation](#part-a-usability-evaluation)
+    - [1. Brief Description of Participants](#1-brief-description-of-participants)
+      - [a. Description of Participant 1](#a-description-of-participant-1)
+      - [b. Description of Participant 2](#b-description-of-participant-2)
+
+    - [2. Evaluation Script](#2-evaluation-script)
+    - [3. Transcript](#3-transcript)
+      - [a. Transcript with Participant 1](#a-transcript-with-participant-1)
+      - [b. Transcript with Participant 2](#b-transcript-with-participant-2)
+    - [4. Feedback and Incidence Analysis](#4-feedback-and-incidence-analysis)
+      - [OBSERVATION 1 - Home Page](#observation-1-home-page)
+      - [OBSERVATION 2 - Rate / Vote Button](#observation-2-rate-vote-button)
+      - [OBSERVATION 3 - Comment Feature](#observation-3-comment-feature)
+      - [OBSERVATION 4 - Share Post Feature](#observation-4-share-post-feature)
+  - [Part B: Prototyping (again)](#part-b-prototyping-again)
+    - [Sketch](#sketch)
+    - [Design Rationale](#design-rationale)
+    - [High-Fidelity Interactive-Prototype](#high-fidelity-interactive-prototype)
+
 
 ## Operating the Prototype
 Link to Prototype Video: https://www.youtube.com/watch?v=dS0sFvMPbSo&feature=youtu.be
@@ -111,7 +132,7 @@ Five separate tasks were observed in total including:
  1. **06:30** 👨‍💻 Participant: Okeeee sama-samaa.
 
 ### 4. Feedback and Incidence Analysis
-#### OBSERVATION 1
+#### OBSERVATION 1 - Home Page
 ![Prototype Screen 1](/images/Observation1.png)
 
  - **Reference**: Participant 1 [line 22], Participant 2 [line 32]
@@ -124,7 +145,7 @@ Five separate tasks were observed in total including:
     - Increase the post container width
 
  
-#### OBSERVATION 2
+#### OBSERVATION 2 - Rate / Vote Button
 ![Prototype Screen 2](/images/Observation2.png)
 
  - **Reference**: Participant 1 [line 24], Participant 2 [line 28]
@@ -136,7 +157,7 @@ Five separate tasks were observed in total including:
     - Change the color of hit number of rate
 
  
-#### OBSERVATION 3
+#### OBSERVATION 3 - Comment Feature
 ![Prototype Screen 3](/images/Observation3.png)
 
  - **Reference**: Participant 1 [line 18, 26] Participant 2 [line 34]
@@ -146,7 +167,7 @@ Five separate tasks were observed in total including:
  - **Resolution**: -
 
 
-#### OBSERVATION 4
+#### OBSERVATION 4 - Share Post Feature
 ![Prototype Screen 4-1](/images/Observation4-1.png)
 ![Prototype Screen 4-1](/images/Observation4-2.png)
 ![Prototype Screen 4-1](/images/Observation4-3.png)
